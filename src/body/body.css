@@ -1,0 +1,10 @@
+.body {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 15px;
+    text-transform: uppercase;
+}
